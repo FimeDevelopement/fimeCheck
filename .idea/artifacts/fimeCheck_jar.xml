@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fimeCheck:jar">
+    <output-path>$USER_HOME$/Desktop/test/plugins</output-path>
+    <root id="archive" name="fimeCheck.jar">
+      <element id="module-output" name="fimeCheck" />
+    </root>
+  </artifact>
+</component>

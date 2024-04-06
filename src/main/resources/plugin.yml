@@ -1,0 +1,6 @@
+name: fimeCheck
+version: '${project.version}'
+main: ru.don1x.fimecheck.FimeCheck
+api-version: '1.16'
+commands:
+  check:
